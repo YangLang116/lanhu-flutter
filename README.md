@@ -1,21 +1,8 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Lanhu Flutter
+## 1. 介绍
+通过`Chrome Extension`的方式，为蓝湖设计图生成Flutter代码
 
-My Chrome Extension
+## 2. 示例
+![example](./example/example.png)
 
-## Features
-
-- Feature 1
-- Feature 2
-
-## Install
-
-[**Chrome** extension]()
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
-
----
-
-This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
-
+## 3. 待优化
+- 支持更多代码生成
